@@ -18,3 +18,7 @@ This repository includes:
 * **Simulation:** ROS 2, Gazebo
 * **Visualization:** RViz
 * **Integration:** URDF
+
+## Robot Arm Solid Model with Cordinates
+
+<img width="572" height="667" alt="image" src="https://github.com/user-attachments/assets/09da7d20-7dba-42ab-80b7-d7ebdbfc21e9" />
