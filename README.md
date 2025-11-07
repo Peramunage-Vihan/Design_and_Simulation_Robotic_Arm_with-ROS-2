@@ -22,3 +22,9 @@ This repository includes:
 ## Robot Arm Solid Model with Cordinates
 
 <img width="572" height="667" alt="image" src="https://github.com/user-attachments/assets/09da7d20-7dba-42ab-80b7-d7ebdbfc21e9" />
+
+## Rviz Simulation
+
+<img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/9592c4f7-8d65-4ff6-84c4-283bc03bb3b7" />
+
+
